@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justsuvorov
-- 👀 I’m interested in mechanical engineering and data science
-- 🌱 I’m currently learning python and ML algorithms
+- 👀 I’m interested in ML solutions and full-stack production
+- 🌱 I’m currently learning python, dart flutter and ML algorithms
 
 
 
